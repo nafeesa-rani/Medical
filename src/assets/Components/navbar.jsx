@@ -38,7 +38,7 @@ const Navbar = ({ onNavigate }) => {
 
       <div className="navbarlower">
         <div className="navbar-logo">
-          <img src="/public/logo.png" alt="Medical College Logo" />
+          <img src="./logo.png" alt="Medical College Logo" />
         </div>
 
         <div
