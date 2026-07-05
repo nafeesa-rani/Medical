@@ -53,7 +53,7 @@
 
 .facultycard2 {
     background: linear-gradient(to bottom, transparent 55%, rgb(255, 254, 254) 55%),
-                url('img2.jpg') no-repeat center / 100% 100%;
+                url('./img2.jpg') no-repeat center / 100% 100%;
 }
 
 .facultycard h1,
