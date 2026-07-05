@@ -3,7 +3,7 @@
     height: 85vh;
     overflow: hidden;
     position: relative;
-    background-image: url('img1.jpg');
+    background-image: url('/img1.jpg');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -73,19 +73,19 @@
 
 @keyframes change {
     0%{
-        background-image: url('img1.jpg');
+        background-image: url('/img1.jpg');
     }
 
     30%{
-        background-image: url('img2.jpg');
+        background-image: url('/img2.jpg');
     }
 
     60%{
-        background-image: url('img3.jpg');
+        background-image: url('/img3.jpg');
     }
 
     100%{
-        background-image: url('img3.jpg');
+        background-image: url('/img3.jpg');
     }
 }
 
